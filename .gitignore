@@ -1,0 +1,8 @@
+# Ignore files ending with .in
+*.in
+
+# Ignore files ending with .out
+*.out
+
+# Ignore Python bytecode files
+*.pyc
